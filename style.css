@@ -10,3 +10,8 @@ h1, h3 {
 img {
     border: 5px solid #912F56;
 }
+
+h2#button {
+    color:#D7D6D6;
+    background-color: #912F56;
+}
