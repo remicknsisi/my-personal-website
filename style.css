@@ -31,3 +31,20 @@ h2#button {
     margin-left: 42%;
     margin-right: 42%;
 }
+
+h2#button :hover {
+    color:#D7D6D6;
+}
+
+nav {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #7b7263;
+    margin-left: auto;
+    margin-right:auto;
+    height: 50px;
+    font-size: larger;
+}
+
+nav :hover {
+    color:#D7D6D6;
+}
