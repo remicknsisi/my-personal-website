@@ -5,13 +5,22 @@ body {
 
 h1, h3 {
     color: #361F27;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h4 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 35%;
+    margin-right: 35%;
 }
 
 img {
     border: 5px solid #912F56;
+    margin-top: 5%;
 }
 
 h2#button {
     color:#D7D6D6;
     background-color: #912F56;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
