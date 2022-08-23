@@ -1,3 +1,15 @@
 body {
-    background: blue;
+    background: #E4DFDA;
+}
+
+h1, h3 {
+    color: #361F27;
+}
+
+body.script {
+    color: #912F56;
+}
+
+img {
+    border: 5px solid #912F56;
 }
