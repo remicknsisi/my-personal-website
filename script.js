@@ -5,7 +5,7 @@ document.querySelector("body").appendChild(h2);
 const input = document.getElementById('button');
 
 function clickAlert() {
-  alert('I was clicked!');
+  alert('Thank you for your inquiry!');
 }
 
 input.addEventListener('click', clickAlert);
