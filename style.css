@@ -1,13 +1,10 @@
 body {
     background: #E4DFDA;
+    text-align: center;
 }
 
 h1, h3 {
     color: #361F27;
-}
-
-body.script {
-    color: #912F56;
 }
 
 img {
