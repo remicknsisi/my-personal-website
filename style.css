@@ -13,6 +13,10 @@ h2 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+body h2 a {
+    color:#D7D6D6;
+}
+
 h4 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-left: 35%;
