@@ -30,3 +30,26 @@ nav a {
 nav :hover {
     color:#912F56;
 }
+
+p {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+ul li {
+    display: inline-block;
+    padding: 10px 10px;
+}
+
+ul li a {
+    color:#912F56;
+}
+
+ul li :hover {
+    color:#7b7263;
+}
