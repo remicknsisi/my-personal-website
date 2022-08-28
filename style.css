@@ -43,8 +43,23 @@ nav {
     margin-right:auto;
     height: 50px;
     font-size: larger;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    padding: 10px 10px;
+}
+
+nav a {
+    color:#D7D6D6;
+    display:inline-block;
 }
 
 nav :hover {
-    color:#D7D6D6;
+    color:#912F56;
 }
