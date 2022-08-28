@@ -9,6 +9,11 @@ table {
     text-align: left;
 }
 
+table th, td {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 nav {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: #7b7263;
