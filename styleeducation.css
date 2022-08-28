@@ -1,6 +1,12 @@
 body {
     background: #E4DFDA;
     text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+table {
+    text-align: left;
 }
 
 nav {
