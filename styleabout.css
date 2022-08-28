@@ -2,3 +2,31 @@ body {
     background: #E4DFDA;
     text-align: center;
 }
+
+nav {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #7b7263;
+    margin-left: auto;
+    margin-right:auto;
+    height: 50px;
+    font-size: larger;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    padding: 10px 10px;
+}
+
+nav a {
+    color:#D7D6D6;
+    display:inline-block;
+}
+
+nav :hover {
+    color:#912F56;
+}
